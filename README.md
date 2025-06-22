@@ -1,0 +1,1 @@
+This project is a Flask-based RESTful API that simulates a simple digital wallet system. It allows users to register, authenticate, deposit funds, and perform transactions securely. All data is persisted using MySQL, and user credentials are protected with bcrypt password hashing and Basic Authentication.
